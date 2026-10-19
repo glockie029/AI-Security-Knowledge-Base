@@ -18,10 +18,10 @@ flowchart TD
 ## 已整理主题
 
 1. [LLM 的本质与一次模型调用的完整链路](01-LLM-Basics/01-llm-call-chain.md)
+2. [Token、Embedding、Transformer 与 Attention 的关系](01-LLM-Basics/02-token-embedding-transformer-attention.md)
 
 ## 后续主题
 
-- Token、Embedding、Transformer 与 Attention
 - RAG 检索到上下文，以及检索结果的信任边界
 - Agent、Function Calling 与 MCP 的关系
 - Prompt Injection、RAG Poisoning 与执行风险
